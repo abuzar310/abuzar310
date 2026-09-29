@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Next.js / React", "value": 88 },
+    { "label": "TypeScript", "value": 86 },
+    { "label": "Flutter / Dart", "value": 72 },
+    { "label": "Node.js", "value": 80 },
+    { "label": "PostgreSQL", "value": 78 },
+    { "label": "Security tooling", "value": 74 },
+    { "label": "Shipping products", "value": 85 }
+  ]
+}

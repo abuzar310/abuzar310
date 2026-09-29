@@ -1,0 +1,11 @@
+{
+  "title": "Language stack",
+  "_comment": "Hand-authored stack radar. Values 0-100.",
+  "axes": [
+    { "label": "TypeScript", "value": 90 },
+    { "label": "JavaScript", "value": 82 },
+    { "label": "Dart", "value": 70 },
+    { "label": "Python", "value": 68 },
+    { "label": "SQL", "value": 64 }
+  ]
+}

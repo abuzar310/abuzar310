@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured public repos. Stars/forks/language come from the API; description here overrides GitHub.",
+  "projects": [
+    {
+      "repo": "homeledger",
+      "description": "Household expenses on the phone. Add Milk and ₹54 — the app picks category, merchant, and channel."
+    },
+    {
+      "repo": "confidence-booster-ai",
+      "description": "Phone-first webcam phonk editor. Sip, glasses, or Drop — then save the MP4. Stays on device."
+    },
+    {
+      "repo": "openparental",
+      "description": "Consent-first parental controls for Android. Bypass-evident, not bypass-proof."
+    },
+    {
+      "repo": "cloneforge",
+      "description": "Turn any website into a clean Next.js app you can keep editing in Cursor."
+    }
+  ]
+}
