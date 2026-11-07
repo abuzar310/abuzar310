@@ -44,7 +44,7 @@ I build production web apps, business tooling, and open-source products end to e
 
 <div align="center">
 
-## my perfect stack`
+## my perfect stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,android,postgres,tailwind,git,github,docker,vercel,supabase,flutter&perline=8" alt="tech stack">
 
