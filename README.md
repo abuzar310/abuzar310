@@ -46,7 +46,7 @@ I build production web apps, business tooling, and open-source products end to e
 
 ## my perfect stack`
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,tailwind,git,github,docker,vercel,supabase,flutter&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,android,postgres,tailwind,git,github,docker,vercel,supabase,flutter&perline=8" alt="tech stack">
 
 </div>
 
@@ -113,17 +113,6 @@ I build production web apps, business tooling, and open-source products end to e
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/abuzar310/confidence-booster-ai">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-confidence-booster-ai-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-confidence-booster-ai-light.svg">
-  <img src="assets/card-confidence-booster-ai-dark.svg" width="100%" alt="Confidence Booster">
-</picture>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
 <a href="https://github.com/abuzar310/openparental">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-openparental-dark.svg">
@@ -132,6 +121,28 @@ I build production web apps, business tooling, and open-source products end to e
 </picture>
 </a>
 </td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/abuzar310/badlovoice">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-badlovoice-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-badlovoice-light.svg">
+  <img src="assets/card-badlovoice-dark.svg" width="100%" alt="BadLoVoice">
+</picture>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/abuzar310/zaru-tv-ui">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-zaru-tv-ui-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-zaru-tv-ui-light.svg">
+  <img src="assets/card-zaru-tv-ui-dark.svg" width="100%" alt="Zaru TV">
+</picture>
+</a>
+</td>
+</tr>
+<tr>
 <td width="50%" align="center">
 <a href="https://github.com/abuzar310/cloneforge">
 <picture>
@@ -141,10 +152,71 @@ I build production web apps, business tooling, and open-source products end to e
 </picture>
 </a>
 </td>
+<td width="50%" align="center">
+<a href="https://github.com/abuzar310/agent-skills-starter">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-skills-starter-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-agent-skills-starter-light.svg">
+  <img src="assets/card-agent-skills-starter-dark.svg" width="100%" alt="Agent Skills Starter">
+</picture>
+</a>
+</td>
 </tr>
 </table>
 
 </div>
+
+---
+
+## the lab
+
+Every public repo, grouped. Featured cards above; this is the full shelf.
+
+### business
+
+| Repo | What it is |
+|------|------------|
+| [homeledger](https://github.com/abuzar310/homeledger) · [live](https://homeledger-olive.vercel.app) | Household expenses on the phone. Add Milk and ₹54 — the app organises the rest. |
+| [timbercounterai](https://github.com/abuzar310/timbercounterai) | Count timber planks from one photo. Offline, on-device, for the family yard. |
+| [ai-carve](https://github.com/abuzar310/ai-carve) · [live](https://ai-carve.vercel.app) | CNC relief studio — name, verse, photo, or star pattern to STL for ArtCAM. |
+| [houseplann](https://github.com/abuzar310/houseplann) · [live](https://houseplann.vercel.app) | 3D architectural model of Sri Afsar Residence (G+1, Chitradurga). |
+
+### android & systems
+
+| Repo | What it is |
+|------|------------|
+| [openparental](https://github.com/abuzar310/openparental) · [live](https://openparental.vercel.app) | Consent-first parental controls. Bypass-evident, not bypass-proof. |
+| [zaru-tv-ui](https://github.com/abuzar310/zaru-tv-ui) | Apple TV-style home for Android TV / Google TV. Shipping 1.2. |
+| [zaru-os](https://github.com/abuzar310/zaru-os) | Zaru TV + Halo TV merged (Ambient, Tonight, Jarvis). Separate package so shipping Zaru TV stays untouched. |
+| [badlovoice](https://github.com/abuzar310/badlovoice) | Realtime AI voice changer for browser + Android. Local privacy. |
+
+### web & media
+
+| Repo | What it is |
+|------|------------|
+| [cloneforge](https://github.com/abuzar310/cloneforge) · [live](https://cloneforge-orcin.vercel.app) | Forge any website into a clean Next.js app for Cursor / Claude Code. |
+| [confidence-booster-ai](https://github.com/abuzar310/confidence-booster-ai) · [live](https://confidence-booster-ai.vercel.app) | Phone-first webcam phonk editor. Sip, glasses, or Drop — then save the MP4. |
+| [windows-xp-2004](https://github.com/abuzar310/windows-xp-2004) · [live](https://windows-xp-zeta.vercel.app) | 2004 Windows XP-style desktop with a Winamp-like music player. |
+| [knox-bot](https://github.com/abuzar310/knox-bot) · [live](https://knox-web-mauve.vercel.app) | Multi-server Discord master bot + dashboard. |
+| [subtitle-gen](https://github.com/abuzar310/subtitle-gen) | One-word reel subtitles synced to audio (Whisper). |
+| [birthday-wish](https://github.com/abuzar310/birthday-wish) · [live](https://pandu-lyart.vercel.app) | Birthday link for one friend. |
+
+### agents & learning
+
+| Repo | What it is |
+|------|------------|
+| [agent-skills-starter](https://github.com/abuzar310/agent-skills-starter) | Curated Agent Skills pack for Claude Code & Cursor (~136 skills + Agency roster). |
+| [vibe-sec](https://github.com/abuzar310/vibe-sec) | Claude Code skill that audits the holes AI assistants keep introducing. |
+| [exam-paper](https://github.com/abuzar310/exam-paper) | Solved question papers in one two-column look, as PDF and PNG. |
+
+### experiments
+
+| Repo | What it is |
+|------|------------|
+| [geo-companion](https://github.com/abuzar310/geo-companion) | Location overlay + round history for GeoGuessr / WorldGuessr. Personal / learning. |
+| [instagra-followe-removerr](https://github.com/abuzar310/instagra-followe-removerr) | Instagram follower review — fetch, flag bots, review, unfollow. |
+
+`abuzarindustries-1` is a fork of the company site — kept on GitHub, not listed here.
 
 ---
 
